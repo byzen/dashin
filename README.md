@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/44f1b95c29c24d72b0febe7a90414c5e)](https://app.codacy.com/app/byzen/dashin?utm_source=github.com&utm_medium=referral&utm_content=byzen/dashin&utm_campaign=Badge_Grade_Dashboard)
 [![Coverage Status](https://coveralls.io/repos/github/byzen/dashin/badge.svg?branch=master)](https://coveralls.io/github/byzen/dashin?branch=master)
 [![Build Status](https://travis-ci.org/byzen/dashin.svg?branch=master)](https://travis-ci.org/byzen/dashin)
 # Dashin
