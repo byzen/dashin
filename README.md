@@ -1,3 +1,5 @@
+[![Coverage Status](https://coveralls.io/repos/github/byzen/dashin/badge.svg?branch=master)](https://coveralls.io/github/byzen/dashin?branch=master)
+[![Build Status](https://travis-ci.org/byzen/dashin.svg?branch=master)](https://travis-ci.org/byzen/dashin)
 # Dashin
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.1.3.
