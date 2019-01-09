@@ -9,7 +9,8 @@
     "lint": "ng lint",
     "e2e": "ng e2e",
     "test:cover": "rm -rf ./coverage && ng test --no-watch --code-coverage",
-    "coveralls": "cat coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js"
+    "coveralls": "cat coverage/lcov.info | ./node_modules/coveralls/bin/coveralls.js",
+    "test-with-coverage": "istanbul cover jasmine-node --captureExceptions spec/ && cat ./coverage/lcov.info | codacy-coverage && rm -rf ./coverage"
   },
   "husky": {
     "hooks": {
@@ -27,6 +28,7 @@
     "@angular/platform-browser": "~7.1.0",
     "@angular/platform-browser-dynamic": "~7.1.0",
     "@angular/router": "~7.1.0",
+    "codacy-coverage": "^3.4.0",
     "core-js": "^2.5.4",
     "rxjs": "~6.3.3",
     "tslib": "^1.9.0",
