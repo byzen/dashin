@@ -1,7 +1,7 @@
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/417c721774964134b813b4f0944943bf)](https://www.codacy.com/app/byzen/dashin?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=byzen/dashin&amp;utm_campaign=Badge_Grade)
 [![Coverage Status](https://coveralls.io/repos/github/byzen/dashin/badge.svg?branch=master)](https://coveralls.io/github/byzen/dashin?branch=master)
 [![Build Status](https://travis-ci.org/byzen/dashin.svg?branch=master)](https://travis-ci.org/byzen/dashin)
 [![Known Vulnerabilities](https://snyk.io/test/github/byzen/dashin/badge.svg?targetFile=package.json)](https://snyk.io/test/github/byzen/dashin?targetFile=package.json)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/417c721774964134b813b4f0944943bf)](https://www.codacy.com/app/byzen/dashin?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=byzen/dashin&amp;utm_campaign=Badge_Grade)
 
 # Dashin
 
